@@ -1,0 +1,8 @@
+opencv-python==4.7.0.72
+pyaudio==0.2.11
+wave==0.0.2
+SpeechRecognition==3.9.0
+gtts==2.2.3
+pygame==2.1.2
+transformers==4.33.1
+torch==2.0.1
